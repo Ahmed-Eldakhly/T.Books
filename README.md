@@ -18,7 +18,7 @@
 #
 
 # Deployment Link.
-[T-Book](https://omarmohamedawad.github.io/Attack-on-Titan/index.html)
+[T-Book](https://mystifying-kirch-597a8b.netlify.app/)
 
 #
 
